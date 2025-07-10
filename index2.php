@@ -82,6 +82,9 @@
    
   </div>
 </div>
+<div class="text-center mt-4">
+  <a href="index.html" class="btn btn-info">🔙 Volver al formulario</a>
+</div>
 
 </body>
 </html>
